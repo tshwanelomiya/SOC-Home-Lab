@@ -35,33 +35,23 @@ The projects were completed in controlled lab environments and were designed to 
 
 # 📂 Projects
 
-## 1. 🔎 SIEM Security Monitoring & Alert Triage
+# 1. 🎯 TryHackMe SOC Simulator
 
-### Objective
+  Platform: TryHackMe  
+  Focus: SOC Alert Triage, Investigation & Incident Response
 
-Develop practical experience with Security Information and Event Management (SIEM) platforms by collecting, monitoring, and analyzing security events.
+Completed hands-on SOC simulations involving:
 
-### Tools
+- Alert triage
+- True Positive / False Positive classification
+- SIEM investigation
+- Phishing investigation
+- Threat detection
+- Incident escalation
+- Case report writing
+- Incident response workflows
 
-- Splunk
-- Wazuh
-- Ubuntu
-- Windows
-- SIEM dashboards and logs
-
-### Activities
-
-- Analyzed security logs and events.
-- Investigated suspicious activity.
-- Practiced alert triage.
-- Identified potentially malicious events.
-- Correlated security information from logs.
-- Determined when an alert required escalation.
-- Practiced basic incident investigation workflows.
-
-### Skills Demonstrated
-
-`SIEM` `Log Analysis` `Alert Triage` `Threat Detection` `Incident Investigation` `Escalation`
+🔗 **Project / Training:** [TryHackMe SOC Simulator](https://tryhackme.com/soc-sim)
 
 ---
 
