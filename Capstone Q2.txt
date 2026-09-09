@@ -1,0 +1,24 @@
+Question 1
+
+In order to investigate this incident, In preparation I would make use of forensic software and use incident analysis resources such as network diagrams before moving on to the mitigation software such as cleaning the operating system. 
+Incident response identification: Make use of web server logs
+Incident response containment: As malware can spread quickly, I would isolate all the infected systems then use a sandbox to run the malware and analyse the results.
+Incident response recovery: Deactivate the affected user account and replace the compromised files such as the one from the HR folder.
+Incident response- Lessons learned: Determine how I can improve my software so I can receive better alerts.
+
+Question 2
+Types of data/logs to collect
+·	Full headers: identify if the email has a failed SPF
+·	location sign-in logs: Determine the geographical origin of the email
+·	EDR: Check event viewer to determine if it was an insider threat or malicious script.
+
+Question 3
+Containment steps
+·	Isolate the affected user account and affected endpoints.
+·	Check logs to determine the scope of the incident and other similar phishing attempts.
+
+Question 4
+Technical controls to implement
+·	file or folder level encryption: Encode the file or folder to allow only authorized users to have access to it. this effective in preventing unauthorized access with little to no challenges of implementation for SafariPay
+·	Multi Factor authentication: A type of authentication that requires 2 or more methods of identification to ensure you are who you say you are. Effective as the methods to gain access can be challenging for the attacker to get. No challenges to SafariPay.
+·	Email authentication: this ensures that the received email is not a spoofed. this involves checking the email headers and the SPF or DMARC, If one of them says failed then there is a high chance that the email received is part of a phishing attempt

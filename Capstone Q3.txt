@@ -1,0 +1,39 @@
+
+Question 1
+
+Confidentiality
+Confidentiality prevents the unauthorised disclosure of information.
+Due to the success of the phishing email, the attacker gained access to 50 employees salary records. This impacted the confidentiality as the attacker gained access to this information.
+Integrity
+Integrity ensure that data has not changed.
+Due to the attacker gaining access to a shared HR folder, the integrity of that folder was compromised. In other words the HR folder lost integrity.
+Availability. The attacker also gained access to the credentials of an agent network as they were unencrypted. 
+Ensures that data and services are always available when needed.
+As SafariPay handles 500 000 transactions a day with a client base of 2.5 million, it is essential that their servers are always available. 
+
+
+Question 2
+
+Ransomware: Encrypt sensitive data and threaten to leak customer data
+Impersonation: target specific phishing that happens during tax season and/holiday season.
+Identity fraud: Uses artificial intelligence to create fake information.
+
+
+Question 3
+
+What is a phishing email?
+The practice of sending email to users with the purpose of tricking them into revealing personal information or clicking a link.
+
+How are phishing emails so effective? 
+Phishing emails are effective due to social engineering, phishing emails first hack the human then the software. The social engineering tactic about tax compliance verification led Jane to open up the email and click on the link. 
+
+Phishing process explained.
+Upon clicking the link on the phishing email, you are then directed to a malicious website that appears to be legitimate. Another form of social engineering includes a malicious attachment, upon opening it your device gets infected with malware.
+Jane received a socially engineered phishing email from a spoofed email address
+Jane then went ahead to open it out of curiosity 
+Unbeknownst to Jane, clicking the link sent her to a malicious website, that is why after she entered her credentials she received a "server error" message.
+After obtaining her logins, the attacker could enter the company network as Jane and access all the information they wanted such as the employee records and the agent company documents. 
+
+
+
+
