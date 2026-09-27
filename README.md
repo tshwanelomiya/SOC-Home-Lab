@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity Operations & Security Analysis Portfolio
 
-Hands-on cybersecurity portfolio demonstrating practical work in **security monitoring, alert triage, network analysis, intrusion detection, vulnerability assessment, web application security, phishing investigation, incident response, and security reporting**. The portfolio is designed to support applications for **SOC Analyst, Cybersecurity Analyst, and Junior Security Engineer** roles.
+Hands-on cybersecurity portfolio demonstrating practical work in **security monitoring, alert triage, network analysis, intrusion detection, vulnerability assessment, web application security, phishing investigation, incident response, and security reporting**. The portfolio is designed for two audiences: **recruiters and hiring managers** evaluating hands-on cybersecurity capability, and **prospective freelance clients** looking for clearly scoped, authorized security assessment and security-analysis work.
 
 The work documented here was completed in controlled laboratory or simulated environments as part of cybersecurity training and independent hands-on practice.
 
@@ -44,17 +44,66 @@ The work documented here was completed in controlled laboratory or simulated env
 - **Higher Certificate in Business Principles and Practices**
 - **Certificate in Accounting Software**
 
+## 👤 Recruiter & Client Overview
+
+### For Recruiters
+This portfolio provides evidence of:
+- Hands-on cybersecurity laboratory experience
+- SOC alert triage and True Positive / False Positive classification
+- Network reconnaissance and traffic analysis
+- IDS configuration and custom detection rules
+- Web application security assessment
+- Phishing, IOC, and incident investigation
+- Security reporting, remediation, and hardening recommendations
+- Practical use of industry-relevant security tools
+
+**Target roles:** SOC Analyst · Cybersecurity Analyst · Junior Security Engineer · Entry-Level Security Operations
+
+### For Freelance Clients
+The portfolio demonstrates a structured approach to **authorized** cybersecurity work, including:
+- Network and service reconnaissance
+- Basic vulnerability and web application assessment
+- Network traffic analysis
+- IDS/detection configuration and validation
+- Phishing and security incident analysis
+- Security findings and remediation documentation
+- Security hardening recommendations
+
+**Potential engagement areas:** security assessments · vulnerability identification · security monitoring support · phishing/incident analysis · technical security reporting
+
+> **Important:** The projects in this repository are laboratory, training, or simulated engagements. They demonstrate methodology and technical capability and should not be presented as previous commercial client work.
+
+## 🧾 Example Deliverables
+
+A typical authorized assessment or security-analysis engagement can be documented with:
+1. **Scope & authorization** — systems, applications, testing boundaries, and objectives
+2. **Discovery & assessment** — reconnaissance, service identification, and security testing
+3. **Evidence** — relevant screenshots, packet captures, alerts, logs, and technical observations
+4. **Findings** — vulnerability or security issue, affected asset, evidence, and potential impact
+5. **Detection/analysis** — relevant alerts, IOCs, traffic observations, or investigation findings
+6. **Recommendations** — practical remediation and security-hardening actions
+7. **Final report** — concise technical and management-facing summary
+8. **Retesting** — where agreed, validation that identified issues were addressed
+
+## 🔐 Freelance Engagement Principles
+
+For any real-world work, the engagement should begin with **written authorization and clearly defined scope**. Testing should remain within the agreed targets, methods, and time window.
+
+The portfolio is intended to demonstrate a professional workflow rather than imply production experience that has not been obtained.
+
+**Workflow:** Authorization & Scope → Discovery → Assessment → Evidence → Analysis → Reporting → Remediation → Retesting
+
 ## 📂 Featured Work
 
 ### 🚨 Suricata IDS & Detection Engineering
 Configured Suricata, developed custom detection rules for controlled Nmap and XSS-related activity, investigated signature errors, and validated alerts.
 
-**[View project](projects/suricata-ids/README.md)** · **[View report](Suricata.pdf)**
+**[View project](projects/suricata-ids/README.md)** · **[View report](Suricata-ids-detection-engineering.pdf)**
 
 ### 🕵️ Wireshark Network Traffic Analysis
 Captured and analyzed TCP/HTTP traffic generated during controlled web security testing and correlated network observations with IDS activity.
 
-**[View project](projects/wireshark-analysis/README.md)** · **[View report](Wireshark%20packet%20capture.pdf)**
+**[View project](projects/wireshark-analysis/README.md)** · **[View report](Wireshark-network-traffic-analysis.pdf)**
 
 ### 🔎 Network Reconnaissance
 Performed authorized host discovery, port scanning, service enumeration, and attack-surface analysis using Nmap.
@@ -64,7 +113,7 @@ Performed authorized host discovery, port scanning, service enumeration, and att
 ### 🌐 OWASP Juice Shop Security Assessment
 Used Burp Suite, Wireshark, and Suricata to investigate controlled XSS activity against the intentionally vulnerable OWASP Juice Shop application.
 
-**[View project](projects/web-application-security/README.md)** · **[XSS report](XSS%20VULNERABILITY.pdf)** · **[Incident report](Investigate%20a%20Simulated%20Compromise%20from%20Phishing%20Email%20to%20Endpoint%20Hardening/OWASP%20Incident%20Report.pdf)**
+**[View project](projects/web-application-security/README.md)** · **[XSS report](owasp-juice-shop-xss-assessment.pdf)** · **[Incident report](Investigate%20a%20Simulated%20Compromise%20from%20Phishing%20Email%20to%20Endpoint%20Hardening/OWASP%20Incident%20Report.pdf)**
 
 ### 🎣 Simulated Phishing Compromise Investigation
 Investigated a simulated attack chain from phishing email through account compromise, containment, recovery, and endpoint hardening.
@@ -160,7 +209,7 @@ All security testing documented here was performed against controlled laboratory
 
 **Development focus:** building deeper end-to-end SIEM/EDR alert-triage investigations and expanding detection engineering depth.
 
-This repository demonstrates hands-on laboratory capability rather than claiming production SOC or commercial consulting experience.
+This repository demonstrates hands-on laboratory and simulated-investigation capability. It does not claim production SOC employment or previous commercial consulting engagements.
 
 ---
 
