@@ -30,6 +30,20 @@ The work documented here was completed in controlled laboratory or simulated env
 | Security Operations | Alert Triage, Investigation, Escalation |
 | Reporting | Incident & Vulnerability Reports |
 
+
+## 🎓 Certifications & Training
+
+### Cybersecurity
+- **Cybersecurity Fundamentals Certificate**
+- **Cybersecurity Operations and Defense Specialist Certificate**
+- **Cybersecurity Expert Professional Certificate**
+- **Regenesys Cybersecurity Certificate**
+- **CompTIA Security+ — In Progress**
+
+### Additional Education
+- **Higher Certificate in Business Principles and Practices**
+- **Certificate in Accounting Software**
+
 ## 📂 Featured Work
 
 ### 🚨 Suricata IDS & Detection Engineering
