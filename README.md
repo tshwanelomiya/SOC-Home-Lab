@@ -68,7 +68,7 @@ Completed the **TryHackMe SOC Simulator** beginner-level simulation with **100% 
 
 The exercise demonstrates practical SOC fundamentals including alert triage, investigation, evidence-based classification, case documentation, and escalation decisions.
 
-**[View SOC Simulator case study](projects/tryhackme-soc-simulator/README.md)**
+**[View SOC Simulator case study](projects/tryhackme-soc-simulator/README.md)** · **[View evidence](evidence/tryhackme-soc-simulator/)**
 
 ## 🧪 SOC / Security Operations
 
