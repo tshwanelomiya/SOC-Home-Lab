@@ -47,6 +47,18 @@ This complements the hands-on network and detection work in this portfolio, part
 
 ## Evidence
 
+The screenshots below provide portfolio evidence of the completed SOC simulation:
+
+- [100% completion evidence](../../evidence/tryhackme-soc-simulator/01-completion-100-percent.png)
+- [True Positive alert/classification](../../evidence/tryhackme-soc-simulator/02-true-positive-alert.png)
+- [True Positive investigation/classification evidence](../../evidence/tryhackme-soc-simulator/03-true-positive-investigation.png)
+- [False Positive alert/classification](../../evidence/tryhackme-soc-simulator/04-false-positive-alert.png)
+- [False Positive investigation/classification evidence](../../evidence/tryhackme-soc-simulator/05-false-positive-investigation.png)
+- [Identification rate](../../evidence/tryhackme-soc-simulator/06-identification-rate.png)
+- [Overall results](../../evidence/tryhackme-soc-simulator/07-overall-results.png)
+
+These examples show the progression from alert review and investigation through classification and performance verification.
+
 Evidence should include screenshots showing:
 
 - TryHackMe SOC Simulator scenario name
