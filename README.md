@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity Operations & Security Analysis Portfolio
 
-Hands-on cybersecurity portfolio demonstrating practical work in **security monitoring, alert triage, network analysis, intrusion detection, vulnerability assessment, web application security, phishing investigation, incident response, and security reporting**.
+Hands-on cybersecurity portfolio demonstrating practical work in **security monitoring, alert triage, network analysis, intrusion detection, vulnerability assessment, web application security, phishing investigation, incident response, and security reporting**. The portfolio is designed to support applications for **SOC Analyst, Cybersecurity Analyst, and Junior Security Engineer** roles.
 
 The work documented here was completed in controlled laboratory or simulated environments as part of cybersecurity training and independent hands-on practice.
 
@@ -99,9 +99,9 @@ Typical lab architecture:
                     └─────────────────┘
 ```
 
-## 💼 Freelance Security Workflow
+## 💼 Authorized Security Assessment Workflow
 
-For authorized client work, the portfolio follows a structured workflow:
+For authorized security assessments, the portfolio follows a structured workflow. The examples here are laboratory or simulated work, not claimed commercial engagements:
 
 **Authorization & Scope → Discovery → Assessment → Evidence Collection → Analysis → Reporting → Remediation → Retesting**
 
@@ -129,9 +129,15 @@ The repository also contains supporting training material and scenario documenta
 
 All security testing documented here was performed against controlled laboratory systems, intentionally vulnerable applications, or simulated scenarios for training and portfolio purposes. No unauthorized systems or networks were tested.
 
-## 🎯 Portfolio Focus
+## 🎯 Recruiter Snapshot
 
-This repository is intended to demonstrate practical cybersecurity analysis and documentation capability for **SOC Analyst, Cybersecurity Analyst, Junior Security Engineer, and authorized freelance security work**.
+**Core strengths:** network analysis, IDS/detection work, vulnerability assessment, phishing investigation, incident documentation, and security reporting.
+
+**Tools:** Splunk, Wazuh, Wireshark, TCPDump, Suricata, Nmap, Burp Suite, Netcat, Kali Linux, Ubuntu, Windows, VMware.
+
+**Development focus:** building deeper end-to-end SIEM/EDR alert-triage investigations and expanding detection engineering depth.
+
+This repository demonstrates hands-on laboratory capability rather than claiming production SOC or commercial consulting experience.
 
 ---
 
