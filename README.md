@@ -2,7 +2,7 @@
 
 Hands-on cybersecurity portfolio demonstrating practical work in **security monitoring, alert triage, network analysis, intrusion detection, vulnerability assessment, web application security, phishing investigation, incident response, and security reporting**.
 
-The projects in this repository were completed in controlled laboratory or simulated environments as part of cybersecurity training and independent hands-on practice.
+The work documented here was completed in controlled laboratory or simulated environments as part of cybersecurity training and independent hands-on practice.
 
 ## 🔎 What This Portfolio Demonstrates
 
@@ -43,24 +43,24 @@ Captured and analyzed TCP/HTTP traffic generated during controlled web security 
 **[View project](projects/wireshark-analysis/README.md)** · **[View report](Wireshark%20packet%20capture.pdf)**
 
 ### 🔎 Network Reconnaissance
-Performed authorized host discovery, port scanning, service enumeration and attack-surface analysis using Nmap.
+Performed authorized host discovery, port scanning, service enumeration, and attack-surface analysis using Nmap.
 
-**[View project](projects/nmap-reconnaissance/README.md)** · **[View report](Nmap%20scan.pdf)**
+**[View project](projects/nmap-reconnaissance/README.md)** · **[View report](Investigate%20a%20Simulated%20Compromise%20from%20Phishing%20Email%20to%20Endpoint%20Hardening/Network%20Reconnaissance.pdf)**
 
-### 🌐 OWASP Juice Shop Security Testing
-Used Burp Suite, Wireshark and Suricata to investigate controlled XSS activity against the intentionally vulnerable OWASP Juice Shop application.
+### 🌐 OWASP Juice Shop Security Assessment
+Used Burp Suite, Wireshark, and Suricata to investigate controlled XSS activity against the intentionally vulnerable OWASP Juice Shop application.
 
-**[View project](projects/web-application-security/README.md)** · **[XSS report](XSS%20VULNERABILITY.pdf)**
+**[View project](projects/web-application-security/README.md)** · **[XSS report](XSS%20VULNERABILITY.pdf)** · **[Incident report](Investigate%20a%20Simulated%20Compromise%20from%20Phishing%20Email%20to%20Endpoint%20Hardening/OWASP%20Incident%20Report.pdf)**
 
 ### 🎣 Simulated Phishing Compromise Investigation
-Investigated a simulated attack chain from phishing email through account compromise, containment, recovery and endpoint hardening.
+Investigated a simulated attack chain from phishing email through account compromise, containment, recovery, and endpoint hardening.
 
-**[View investigation](reports/phishing-compromise-investigation.md)** · **[Full report](Investigate%20a%20Simulated%20Compromise%20from%20Phishing%20Email%20to%20Endpoint%20Hardening%20(1).pdf)**
+**[View investigation](reports/phishing-compromise-investigation.md)** · **[Full report](Investigate%20a%20Simulated%20Compromise%20from%20Phishing%20Email%20to%20Endpoint%20Hardening/Investigate%20a%20Simulated%20Compromise%20from%20Phishing%20Email%20to%20Endpoint%20Hardening%20(1).pdf)**
 
 ### 📡 Netcat HTTP Protocol Analysis
 Manually constructed HTTP requests over TCP to understand application communication at the protocol level.
 
-**[View project](projects/netcat-http-analysis/README.md)** · **[View report](Netcat%20GET%20request.pdf)**
+**[View project](projects/netcat-http-analysis/README.md)** · **[View report](Investigate%20a%20Simulated%20Compromise%20from%20Phishing%20Email%20to%20Endpoint%20Hardening/Netcat%20GET%20request.pdf)**
 
 ## 🧪 SOC / Security Operations
 
@@ -120,6 +120,10 @@ Security reports in this repository are designed to document:
 - Detection methodology
 - Remediation recommendations
 - Security hardening
+
+## 📁 Supporting Case-Study Material
+
+The repository also contains supporting training material and scenario documentation, including the **SafariPay scenario** and the **Simulated Phishing Compromise** case study. These are kept separate from the main project summaries so the portfolio remains easy to navigate.
 
 ## ⚠️ Authorization Disclaimer
 
