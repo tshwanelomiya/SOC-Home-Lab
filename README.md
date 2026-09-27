@@ -62,11 +62,20 @@ Manually constructed HTTP requests over TCP to understand application communicat
 
 **[View project](projects/netcat-http-analysis/README.md)** · **[View report](Investigate%20a%20Simulated%20Compromise%20from%20Phishing%20Email%20to%20Endpoint%20Hardening/Netcat%20GET%20request.pdf)**
 
+## 🚨 TryHackMe SOC Alert Triage Simulation
+
+Completed the **TryHackMe SOC Simulator** beginner-level simulation with **100% successful detection/classification**, correctly distinguishing True Positive and False Positive alerts.
+
+The exercise demonstrates practical SOC fundamentals including alert triage, investigation, evidence-based classification, case documentation, and escalation decisions.
+
+**[View SOC Simulator case study](projects/tryhackme-soc-simulator/README.md)**
+
 ## 🧪 SOC / Security Operations
 
 My SOC-oriented work includes:
 
 - Alert triage and True Positive / False Positive classification
+- TryHackMe SOC simulation with 100% successful completion
 - SIEM investigation concepts
 - Phishing investigation
 - IOC analysis
